@@ -1,0 +1,23 @@
+.name{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 18px;
+    text-align: center;
+}
+.btnStyle{
+    text-align: center;
+    background-color: RGB(255, 206, 62);
+}
+.btnStyle:hover{
+    background-color: #222222;
+    color: #fff;
+}
+.cardHeight{
+    height: 650px;
+    background-color: RGB(248, 248, 248);
+}
+
+span{
+    text-align: left;
+    font-weight : 500;
+    color: grey !important;
+}

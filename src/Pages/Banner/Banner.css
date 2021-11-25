@@ -1,0 +1,6 @@
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    background-color: #000000 !important;
+}
+.carousel-indicators [data-bs-target] {
+    background-color: #000000 !important;
+}

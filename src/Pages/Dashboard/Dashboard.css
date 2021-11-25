@@ -1,0 +1,40 @@
+.itemsall{
+    display: block  !important;
+    margin-top: 20px !important;
+    text-decoration: none !important;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    color: #000;
+  }
+  .css-1t29gy6-MuiToolbar-root, .navBar{
+    background-color: #fff !important;
+    display: none !important;
+  }
+  .css-12i7wg6-MuiPaper-root-MuiDrawer-paper, .css-191lty2, .navstyle{
+    margin-top: 50px;
+    background-color: #0000 !important;
+  }
+  .css-d9ml5t-MuiDrawer-docked .MuiDrawer-paper, .navs{
+    background-color: #0000 !important;
+    color: #fff;
+  }
+  .navs{
+    background-color: #0000 !important;
+    margin-top: 40px;
+    z-index: -1;
+  }
+  .disStyle{
+    background-color: #0000 !important;
+    color: #fff;
+  }
+  /* .sideBar{
+    display: block !important;
+  } */
+  @media only screen and (max-width: 500px) {
+    .css-1t29gy6-MuiToolbar-root, .navBar{
+      overflow: hidden;
+      display: block !important;
+      background-color: black !important;
+      margin-left: 0% !important;
+    }
+  }

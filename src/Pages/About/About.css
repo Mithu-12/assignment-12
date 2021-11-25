@@ -1,0 +1,19 @@
+.assets {
+    background-image: url("https://img.freepik.com/free-photo/sunglasses-sand_1169-59.jpg?size=626&ext=jpg"),
+      linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    height: 650px;
+    width: 100%;
+    /* border: 1px solid red; */
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .element {
+    text-align: center;
+    color: rgb(233, 233, 233);
+  }
+  .assets {
+    /* background-color: rgba(236, 61, 128, 0.74); */
+  }
+  

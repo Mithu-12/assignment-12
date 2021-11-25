@@ -1,0 +1,29 @@
+.items {
+    list-style: none;
+    margin-right: 25px;
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+    padding: 5px;
+    margin-top: 15px;
+    text-decoration: none;
+  }
+  .items:hover {
+    color: rgb(223, 219, 219);
+  }
+  
+  /* .img {
+    background-color: #fff;
+    border-radius: 0px;
+  } */
+  .menu {
+    background-color: hsl(180, 49%, 15%);
+    width: 100%;
+  }
+  .Menu-container {
+    display: flex;
+  }
+  .navmenu{
+    z-index: 10;
+  }
