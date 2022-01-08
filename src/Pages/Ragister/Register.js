@@ -31,8 +31,7 @@ const Register = () => {
       .then((result) => {
         const info = { ...result.user, displayName: name }
         setUser(info)
-        // const newUser = { email, displayName: name }
-        // saveUser(newUser)
+        
         saveUser(email, name)
       history.push(redirect_url)
       console.log(result.user);
